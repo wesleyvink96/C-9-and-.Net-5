@@ -1,0 +1,16 @@
+C:\Users\wesle\AppData\Local\Programs\Microsoft VS Code\Code\Chapter02\Exercise02\TypeList\obj\Debug\net5.0\TypeList.csprojAssemblyReference.cache
+C:\Users\wesle\AppData\Local\Programs\Microsoft VS Code\Code\Chapter02\Exercise02\TypeList\obj\Debug\net5.0\TypeList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wesle\AppData\Local\Programs\Microsoft VS Code\Code\Chapter02\Exercise02\TypeList\obj\Debug\net5.0\TypeList.AssemblyInfoInputs.cache
+C:\Users\wesle\AppData\Local\Programs\Microsoft VS Code\Code\Chapter02\Exercise02\TypeList\obj\Debug\net5.0\TypeList.AssemblyInfo.cs
+C:\Users\wesle\AppData\Local\Programs\Microsoft VS Code\Code\Chapter02\Exercise02\TypeList\obj\Debug\net5.0\TypeList.csproj.CoreCompileInputs.cache
+C:\Users\wesle\AppData\Local\Programs\Microsoft VS Code\Code\Chapter02\Exercise02\TypeList\bin\Debug\net5.0\TypeList.exe
+C:\Users\wesle\AppData\Local\Programs\Microsoft VS Code\Code\Chapter02\Exercise02\TypeList\bin\Debug\net5.0\TypeList.deps.json
+C:\Users\wesle\AppData\Local\Programs\Microsoft VS Code\Code\Chapter02\Exercise02\TypeList\bin\Debug\net5.0\TypeList.runtimeconfig.json
+C:\Users\wesle\AppData\Local\Programs\Microsoft VS Code\Code\Chapter02\Exercise02\TypeList\bin\Debug\net5.0\TypeList.runtimeconfig.dev.json
+C:\Users\wesle\AppData\Local\Programs\Microsoft VS Code\Code\Chapter02\Exercise02\TypeList\bin\Debug\net5.0\TypeList.dll
+C:\Users\wesle\AppData\Local\Programs\Microsoft VS Code\Code\Chapter02\Exercise02\TypeList\bin\Debug\net5.0\ref\TypeList.dll
+C:\Users\wesle\AppData\Local\Programs\Microsoft VS Code\Code\Chapter02\Exercise02\TypeList\bin\Debug\net5.0\TypeList.pdb
+C:\Users\wesle\AppData\Local\Programs\Microsoft VS Code\Code\Chapter02\Exercise02\TypeList\obj\Debug\net5.0\TypeList.dll
+C:\Users\wesle\AppData\Local\Programs\Microsoft VS Code\Code\Chapter02\Exercise02\TypeList\obj\Debug\net5.0\ref\TypeList.dll
+C:\Users\wesle\AppData\Local\Programs\Microsoft VS Code\Code\Chapter02\Exercise02\TypeList\obj\Debug\net5.0\TypeList.pdb
+C:\Users\wesle\AppData\Local\Programs\Microsoft VS Code\Code\Chapter02\Exercise02\TypeList\obj\Debug\net5.0\TypeList.genruntimeconfig.cache
